@@ -1,1 +1,1 @@
-Just a small script to automate sending emails with invoices attached (WIP)
+Just a small script to automate sending emails with invoices attached
